@@ -1,0 +1,28 @@
+
+h1{
+   
+  color: white;
+
+    
+
+}
+
+body{
+    height: 100%;
+  
+    margin: 0;
+    background-image: url("snakegame.jpg");
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+canvas{
+
+background-image:url("deshboard.jpg");
+border: 1px solid white;
+
+}
